@@ -17,3 +17,5 @@ A8+V7.0 SP3、A8+ V6.1 SP2
 1.通过 ACL 禁止外网对“/seeyon/htmlofficeservlet”路径的访问。 
 2、官方补丁 
 请尽快联系致远官方，索要官方补丁程序。
+
+test123456.jsp名称由来为FILENAME=qfTdqfTdqfTdVaxJeAJQBRl3dExQyYOdNAlfeaxsdGhiyYlTcATdN1liN4KXwiVGzfT2dEg6解密以后，加密方式不详，可能为oa内置加密方式,,有懂加密方式的欢迎一起交流学习。
